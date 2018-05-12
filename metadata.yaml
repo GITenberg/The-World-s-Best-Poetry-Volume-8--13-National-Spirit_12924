@@ -1,5 +1,5 @@
 _repo: The-World-s-Best-Poetry-Volume-8--13-National-Spirit_12924
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Stoddard, Francis Hovey
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1936
     gutenberg_agent_id: '5777'
     url: http://www.gutenberg.org/2009/agents/5777
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Carman, Bliss
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4343
     wikipedia: http://en.wikipedia.org/wiki/Bliss_Carman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12924#The-World-s-Best-Poetry-Volume-8--13-National-Spirit
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2004-07-17'
 gutenberg_type: Text
